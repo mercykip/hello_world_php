@@ -1,4 +1,7 @@
-<?php 
-echo "Hello, world! This is my first PHP project! \n";
+<?php
 
-?>
+include("database_connection.php");
+
+echo " \n Hello World";
+
+?> 
