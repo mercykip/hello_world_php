@@ -17,10 +17,4 @@ echo json_encode(['msg' => 'Data Deleted Successfully!', 'status' => true]);
 } else {
   echo json_encode(['msg' => 'Data Failed to be Deleted!', 'status' => false]);
 }
-
-
-
-
-
-
 ?>
